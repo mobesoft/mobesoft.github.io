@@ -1,0 +1,20 @@
+#site conf
+title: Mobesoft
+description: <span>Mobesoft Studio</span> can help you build your own bussiness responsive website use html5.
+
+#user profile
+user_name: Mobesoft
+twitter: 
+facebook: 
+github: 
+dribbble: 
+email: mobesoft88@gmail.com
+
+gravatar_HASH: 6fb960a036cd513c76c563f3e41d5fce
+
+
+pygments: true
+permalink:        pretty
+markdown:         rdiscount
+rdiscount:
+  extensions:     [smart]
