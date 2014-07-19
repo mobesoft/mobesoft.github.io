@@ -7,20 +7,33 @@ title: 门户按需定制网站
 
 前台：
 
-    * HOME / 首页，显示公司（或饭店信息），最新，热卖产品（或菜单，茶品等）
+    - HOME / 首页，显示公司（或饭店信息），最新，热卖产品（或菜单，茶品等）
 
-    * PRODUCTS / 产品（或菜单，茶品等）展示
+    - PRODUCTS / 产品（或菜单，茶品等）展示
 
-    * ABOUT US / 显示相关介绍
+    - ABOUT US / 显示相关介绍
 
-    * CONTACT US / 联系方式
+    - CONTACT US / 联系方式
 
 后台：
 
-    * PRODUCTS / 产品（或菜单，茶品等）添加，修改，删除，更新，并可选择哪些产品显示于首页
+    - PRODUCTS / 产品（或菜单，茶品等）添加，修改，删除，更新，并可选择哪些产品显示于首页
 
 价格: $1000
 
 其他功能模块如有需要可按需添加，按复杂程度 $100 － $500 / 每模块 不等。
 
 年费（域名 ＋ 空间 ＋ 维护）：$420 / 年
+
+<hr />
+
+__Themes__
+
+__[Confit](http://confitdemo.wordpress.com/menu/)__
+![](/images/Confit.png)
+
+__[Motif](http://motifdemo.wordpress.com/)__
+![](/images/Motif.png)
+
+__[Simple Catch](http://catchthemes.com/demo/simplecatch/)__
+![](/images/Simple_Catch.png)
